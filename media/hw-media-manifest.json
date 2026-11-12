@@ -1,0 +1,786 @@
+[
+ {
+  "id": "hw0",
+  "name": "HW Media Bank 01",
+  "file": "media/hw/hw0-HW-Media-Bank-01.jpg",
+  "w": 600,
+  "h": 400
+ },
+ {
+  "id": "hw1",
+  "name": "HW Media Bank 02",
+  "file": "media/hw/hw1-HW-Media-Bank-02.jpg",
+  "w": 1200,
+  "h": 800
+ },
+ {
+  "id": "hw2",
+  "name": "HW Media Bank 03",
+  "file": "media/hw/hw2-HW-Media-Bank-03.jpg",
+  "w": 1200,
+  "h": 1499
+ },
+ {
+  "id": "hw3",
+  "name": "HW Media Bank 04",
+  "file": "media/hw/hw3-HW-Media-Bank-04.jpg",
+  "w": 900,
+  "h": 1200
+ },
+ {
+  "id": "hw4",
+  "name": "HW Media Bank 05",
+  "file": "media/hw/hw4-HW-Media-Bank-05.jpg",
+  "w": 928,
+  "h": 1152
+ },
+ {
+  "id": "hw5",
+  "name": "HW Media Bank 06",
+  "file": "media/hw/hw5-HW-Media-Bank-06.jpg",
+  "w": 768,
+  "h": 1376
+ },
+ {
+  "id": "hw6",
+  "name": "HW Media Bank 07",
+  "file": "media/hw/hw6-HW-Media-Bank-07.jpg",
+  "w": 900,
+  "h": 1600
+ },
+ {
+  "id": "hw7",
+  "name": "HW Media Bank 08",
+  "file": "media/hw/hw7-HW-Media-Bank-08.jpg",
+  "w": 768,
+  "h": 1376
+ },
+ {
+  "id": "hw8",
+  "name": "HW Media Bank 09",
+  "file": "media/hw/hw8-HW-Media-Bank-09.jpg",
+  "w": 1080,
+  "h": 1080
+ },
+ {
+  "id": "hw9",
+  "name": "HW Media Bank 10",
+  "file": "media/hw/hw9-HW-Media-Bank-10.jpg",
+  "w": 1067,
+  "h": 1600
+ },
+ {
+  "id": "hw10",
+  "name": "HW Media Bank 11",
+  "file": "media/hw/hw10-HW-Media-Bank-11.jpg",
+  "w": 1024,
+  "h": 1024
+ },
+ {
+  "id": "hw11",
+  "name": "HW Media Bank 12",
+  "file": "media/hw/hw11-HW-Media-Bank-12.jpg",
+  "w": 1400,
+  "h": 934
+ },
+ {
+  "id": "hw12",
+  "name": "HW Media Bank 13",
+  "file": "media/hw/hw12-HW-Media-Bank-13.jpg",
+  "w": 1200,
+  "h": 675
+ },
+ {
+  "id": "hw13",
+  "name": "HW Media Bank 14",
+  "file": "media/hw/hw13-HW-Media-Bank-14.jpg",
+  "w": 600,
+  "h": 400
+ },
+ {
+  "id": "hw14",
+  "name": "HW Media Bank 15",
+  "file": "media/hw/hw14-HW-Media-Bank-15.jpg",
+  "w": 600,
+  "h": 400
+ },
+ {
+  "id": "hw15",
+  "name": "HW Media Bank 16",
+  "file": "media/hw/hw15-HW-Media-Bank-16.jpg",
+  "w": 1200,
+  "h": 896
+ },
+ {
+  "id": "hw16",
+  "name": "HW Media Bank 17",
+  "file": "media/hw/hw16-HW-Media-Bank-17.jpg",
+  "w": 600,
+  "h": 400
+ },
+ {
+  "id": "hw17",
+  "name": "HW Media Bank 18",
+  "file": "media/hw/hw17-HW-Media-Bank-18.jpg",
+  "w": 1024,
+  "h": 1024
+ },
+ {
+  "id": "hw18",
+  "name": "HW Media Bank 19",
+  "file": "media/hw/hw18-HW-Media-Bank-19.jpg",
+  "w": 750,
+  "h": 750
+ },
+ {
+  "id": "hw19",
+  "name": "HW Media Bank 20",
+  "file": "media/hw/hw19-HW-Media-Bank-20.jpg",
+  "w": 750,
+  "h": 750
+ },
+ {
+  "id": "hw20",
+  "name": "HW Media Bank 21",
+  "file": "media/hw/hw20-HW-Media-Bank-21.jpg",
+  "w": 800,
+  "h": 533
+ },
+ {
+  "id": "hw21",
+  "name": "HW Media Bank 22",
+  "file": "media/hw/hw21-HW-Media-Bank-22.jpg",
+  "w": 600,
+  "h": 400
+ },
+ {
+  "id": "hw22",
+  "name": "HW Media Bank 23",
+  "file": "media/hw/hw22-HW-Media-Bank-23.jpg",
+  "w": 600,
+  "h": 400
+ },
+ {
+  "id": "hw23",
+  "name": "HW Media Bank 24",
+  "file": "media/hw/hw23-HW-Media-Bank-24.jpg",
+  "w": 600,
+  "h": 400
+ },
+ {
+  "id": "hw24",
+  "name": "HW Media Bank 25",
+  "file": "media/hw/hw24-HW-Media-Bank-25.jpg",
+  "w": 1200,
+  "h": 1200
+ },
+ {
+  "id": "hw25",
+  "name": "HW Media Bank 26",
+  "file": "media/hw/hw25-HW-Media-Bank-26.jpg",
+  "w": 600,
+  "h": 800
+ },
+ {
+  "id": "hw26",
+  "name": "HW Media Bank 27",
+  "file": "media/hw/hw26-HW-Media-Bank-27.jpg",
+  "w": 1200,
+  "h": 1200
+ },
+ {
+  "id": "hw27",
+  "name": "HW Media Bank 28",
+  "file": "media/hw/hw27-HW-Media-Bank-28.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw28",
+  "name": "HW Media Bank 29",
+  "file": "media/hw/hw28-HW-Media-Bank-29.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw29",
+  "name": "HW Media Bank 30",
+  "file": "media/hw/hw29-HW-Media-Bank-30.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw30",
+  "name": "HW Media Bank 31",
+  "file": "media/hw/hw30-HW-Media-Bank-31.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw31",
+  "name": "HW Media Bank 32",
+  "file": "media/hw/hw31-HW-Media-Bank-32.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw32",
+  "name": "HW Media Bank 33",
+  "file": "media/hw/hw32-HW-Media-Bank-33.jpg",
+  "w": 1000,
+  "h": 1000
+ },
+ {
+  "id": "hw33",
+  "name": "HW Media Bank 34",
+  "file": "media/hw/hw33-HW-Media-Bank-34.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw34",
+  "name": "HW Media Bank 35",
+  "file": "media/hw/hw34-HW-Media-Bank-35.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw35",
+  "name": "HW Media Bank 36",
+  "file": "media/hw/hw35-HW-Media-Bank-36.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw36",
+  "name": "HW Media Bank 37",
+  "file": "media/hw/hw36-HW-Media-Bank-37.jpg",
+  "w": 752,
+  "h": 800
+ },
+ {
+  "id": "hw37",
+  "name": "HW Media Bank 38",
+  "file": "media/hw/hw37-HW-Media-Bank-38.jpg",
+  "w": 533,
+  "h": 800
+ },
+ {
+  "id": "hw38",
+  "name": "HW Media Bank 39",
+  "file": "media/hw/hw38-HW-Media-Bank-39.jpg",
+  "w": 800,
+  "h": 532
+ },
+ {
+  "id": "hw39",
+  "name": "HW Media Bank 40",
+  "file": "media/hw/hw39-HW-Media-Bank-40.jpg",
+  "w": 800,
+  "h": 532
+ },
+ {
+  "id": "hw40",
+  "name": "HW Media Bank 41",
+  "file": "media/hw/hw40-HW-Media-Bank-41.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw41",
+  "name": "HW Media Bank 42",
+  "file": "media/hw/hw41-HW-Media-Bank-42.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw42",
+  "name": "HW Media Bank 43",
+  "file": "media/hw/hw42-HW-Media-Bank-43.jpg",
+  "w": 1200,
+  "h": 800
+ },
+ {
+  "id": "hw43",
+  "name": "HW Media Bank 44",
+  "file": "media/hw/hw43-HW-Media-Bank-44.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw44",
+  "name": "HW Media Bank 45",
+  "file": "media/hw/hw44-HW-Media-Bank-45.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw45",
+  "name": "HW Media Bank 46",
+  "file": "media/hw/hw45-HW-Media-Bank-46.jpg",
+  "w": 800,
+  "h": 488
+ },
+ {
+  "id": "hw46",
+  "name": "HW Media Bank 47",
+  "file": "media/hw/hw46-HW-Media-Bank-47.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw47",
+  "name": "HW Media Bank 48",
+  "file": "media/hw/hw47-HW-Media-Bank-48.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw48",
+  "name": "HW Media Bank 49",
+  "file": "media/hw/hw48-HW-Media-Bank-49.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw49",
+  "name": "HW Media Bank 50",
+  "file": "media/hw/hw49-HW-Media-Bank-50.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw50",
+  "name": "HW Media Bank 51",
+  "file": "media/hw/hw50-HW-Media-Bank-51.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw51",
+  "name": "HW Media Bank 52",
+  "file": "media/hw/hw51-HW-Media-Bank-52.jpg",
+  "w": 800,
+  "h": 533
+ },
+ {
+  "id": "hw52",
+  "name": "HW Media Bank 53",
+  "file": "media/hw/hw52-HW-Media-Bank-53.jpg",
+  "w": 800,
+  "h": 532
+ },
+ {
+  "id": "hw53",
+  "name": "HW Media Bank 54",
+  "file": "media/hw/hw53-HW-Media-Bank-54.jpg",
+  "w": 800,
+  "h": 523
+ },
+ {
+  "id": "hw54",
+  "name": "HW Media Bank 55",
+  "file": "media/hw/hw54-HW-Media-Bank-55.jpg",
+  "w": 800,
+  "h": 533
+ },
+ {
+  "id": "hw55",
+  "name": "HW Media Bank 56",
+  "file": "media/hw/hw55-HW-Media-Bank-56.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw56",
+  "name": "HW Media Bank 57",
+  "file": "media/hw/hw56-HW-Media-Bank-57.jpg",
+  "w": 645,
+  "h": 800
+ },
+ {
+  "id": "hw57",
+  "name": "HW Media Bank 58",
+  "file": "media/hw/hw57-HW-Media-Bank-58.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw58",
+  "name": "HW Media Bank 59",
+  "file": "media/hw/hw58-HW-Media-Bank-59.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw59",
+  "name": "HW Media Bank 60",
+  "file": "media/hw/hw59-HW-Media-Bank-60.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw60",
+  "name": "HW Media Bank 61",
+  "file": "media/hw/hw60-HW-Media-Bank-61.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw61",
+  "name": "HW Media Bank 62",
+  "file": "media/hw/hw61-HW-Media-Bank-62.jpg",
+  "w": 240,
+  "h": 200
+ },
+ {
+  "id": "hw62",
+  "name": "HW Media Bank 63",
+  "file": "media/hw/hw62-HW-Media-Bank-63.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw63",
+  "name": "HW Media Bank 64",
+  "file": "media/hw/hw63-HW-Media-Bank-64.jpg",
+  "w": 800,
+  "h": 667
+ },
+ {
+  "id": "hw64",
+  "name": "HW Media Bank 65",
+  "file": "media/hw/hw64-HW-Media-Bank-65.jpg",
+  "w": 800,
+  "h": 533
+ },
+ {
+  "id": "hw65",
+  "name": "HW Media Bank 66",
+  "file": "media/hw/hw65-HW-Media-Bank-66.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw66",
+  "name": "HW Media Bank 67",
+  "file": "media/hw/hw66-HW-Media-Bank-67.jpg",
+  "w": 800,
+  "h": 533
+ },
+ {
+  "id": "hw67",
+  "name": "HW Media Bank 68",
+  "file": "media/hw/hw67-HW-Media-Bank-68.jpg",
+  "w": 551,
+  "h": 407
+ },
+ {
+  "id": "hw68",
+  "name": "HW Media Bank 69",
+  "file": "media/hw/hw68-HW-Media-Bank-69.jpg",
+  "w": 200,
+  "h": 285
+ },
+ {
+  "id": "hw69",
+  "name": "HW Media Bank 70",
+  "file": "media/hw/hw69-HW-Media-Bank-70.jpg",
+  "w": 1134,
+  "h": 1166
+ },
+ {
+  "id": "hw70",
+  "name": "HW Media Bank 71",
+  "file": "media/hw/hw70-HW-Media-Bank-71.jpg",
+  "w": 860,
+  "h": 1200
+ },
+ {
+  "id": "hw71",
+  "name": "HW Media Bank 72",
+  "file": "media/hw/hw71-HW-Media-Bank-72.jpg",
+  "w": 997,
+  "h": 1400
+ },
+ {
+  "id": "hw72",
+  "name": "HW Media Bank 73",
+  "file": "media/hw/hw72-HW-Media-Bank-73.jpg",
+  "w": 1132,
+  "h": 1600
+ },
+ {
+  "id": "hw73",
+  "name": "HW Media Bank 74",
+  "file": "media/hw/hw73-HW-Media-Bank-74.jpg",
+  "w": 1129,
+  "h": 1600
+ },
+ {
+  "id": "hw74",
+  "name": "HW Media Bank 75",
+  "file": "media/hw/hw74-HW-Media-Bank-75.jpg",
+  "w": 982,
+  "h": 1400
+ },
+ {
+  "id": "hw75",
+  "name": "HW Media Bank 76",
+  "file": "media/hw/hw75-HW-Media-Bank-76.jpg",
+  "w": 1134,
+  "h": 1600
+ },
+ {
+  "id": "hw76",
+  "name": "HW Media Bank 77",
+  "file": "media/hw/hw76-HW-Media-Bank-77.jpg",
+  "w": 967,
+  "h": 1400
+ },
+ {
+  "id": "hw77",
+  "name": "HW Media Bank 78",
+  "file": "media/hw/hw77-HW-Media-Bank-78.jpg",
+  "w": 1110,
+  "h": 1600
+ },
+ {
+  "id": "hw78",
+  "name": "HW Media Bank 79",
+  "file": "media/hw/hw78-HW-Media-Bank-79.jpg",
+  "w": 1158,
+  "h": 1599
+ },
+ {
+  "id": "hw79",
+  "name": "HW Media Bank 80",
+  "file": "media/hw/hw79-HW-Media-Bank-80.jpg",
+  "w": 1128,
+  "h": 1126
+ },
+ {
+  "id": "hw80",
+  "name": "HW Media Bank 81",
+  "file": "media/hw/hw80-HW-Media-Bank-81.jpg",
+  "w": 1206,
+  "h": 1194
+ },
+ {
+  "id": "hw81",
+  "name": "HW Media Bank 82",
+  "file": "media/hw/hw81-HW-Media-Bank-82.jpg",
+  "w": 1206,
+  "h": 1194
+ },
+ {
+  "id": "hw82",
+  "name": "HW Media Bank 83",
+  "file": "media/hw/hw82-HW-Media-Bank-83.jpg",
+  "w": 1206,
+  "h": 1190
+ },
+ {
+  "id": "hw83",
+  "name": "HW Media Bank 84",
+  "file": "media/hw/hw83-HW-Media-Bank-84.jpg",
+  "w": 1099,
+  "h": 719
+ },
+ {
+  "id": "hw84",
+  "name": "HW Media Bank 85",
+  "file": "media/hw/hw84-HW-Media-Bank-85.jpg",
+  "w": 1187,
+  "h": 794
+ },
+ {
+  "id": "hw85",
+  "name": "HW Media Bank 86",
+  "file": "media/hw/hw85-HW-Media-Bank-86.jpg",
+  "w": 1080,
+  "h": 684
+ },
+ {
+  "id": "hw86",
+  "name": "HW Media Bank 87",
+  "file": "media/hw/hw86-HW-Media-Bank-87.jpg",
+  "w": 1059,
+  "h": 721
+ },
+ {
+  "id": "hw87",
+  "name": "HW Media Bank 88",
+  "file": "media/hw/hw87-HW-Media-Bank-88.jpg",
+  "w": 1152,
+  "h": 855
+ },
+ {
+  "id": "hw88",
+  "name": "HW Media Bank 89",
+  "file": "media/hw/hw88-HW-Media-Bank-89.jpg",
+  "w": 1080,
+  "h": 1080
+ },
+ {
+  "id": "hw89",
+  "name": "HW Media Bank 90",
+  "file": "media/hw/hw89-HW-Media-Bank-90.jpg",
+  "w": 1080,
+  "h": 1080
+ },
+ {
+  "id": "hw90",
+  "name": "HW Media Bank 91",
+  "file": "media/hw/hw90-HW-Media-Bank-91.jpg",
+  "w": 632,
+  "h": 316
+ },
+ {
+  "id": "hw91",
+  "name": "HW Media Bank 92",
+  "file": "media/hw/hw91-HW-Media-Bank-92.jpg",
+  "w": 1080,
+  "h": 1440
+ },
+ {
+  "id": "hw92",
+  "name": "HW Media Bank 93",
+  "file": "media/hw/hw92-HW-Media-Bank-93.jpg",
+  "w": 736,
+  "h": 981
+ },
+ {
+  "id": "hw93",
+  "name": "HW Media Bank 94",
+  "file": "media/hw/hw93-HW-Media-Bank-94.jpg",
+  "w": 1200,
+  "h": 800
+ },
+ {
+  "id": "hw94",
+  "name": "HW Media Bank 95",
+  "file": "media/hw/hw94-HW-Media-Bank-95.jpg",
+  "w": 1024,
+  "h": 1536
+ },
+ {
+  "id": "hw95",
+  "name": "HW Media Bank 96",
+  "file": "media/hw/hw95-HW-Media-Bank-96.jpg",
+  "w": 800,
+  "h": 800
+ },
+ {
+  "id": "hw96",
+  "name": "HW Media Bank 97",
+  "file": "media/hw/hw96-HW-Media-Bank-97.jpg",
+  "w": 1000,
+  "h": 1500
+ },
+ {
+  "id": "hw97",
+  "name": "HW Media Bank 98",
+  "file": "media/hw/hw97-HW-Media-Bank-98.jpg",
+  "w": 1200,
+  "h": 1200
+ },
+ {
+  "id": "hw98",
+  "name": "HW Media Bank 99",
+  "file": "media/hw/hw98-HW-Media-Bank-99.jpg",
+  "w": 1200,
+  "h": 1500
+ },
+ {
+  "id": "hw99",
+  "name": "HW Media Bank 100",
+  "file": "media/hw/hw99-HW-Media-Bank-100.jpg",
+  "w": 710,
+  "h": 990
+ },
+ {
+  "id": "hw100",
+  "name": "HW Media Bank 101",
+  "file": "media/hw/hw100-HW-Media-Bank-101.jpg",
+  "w": 736,
+  "h": 1104
+ },
+ {
+  "id": "hw101",
+  "name": "HW Media Bank 102",
+  "file": "media/hw/hw101-HW-Media-Bank-102.jpg",
+  "w": 768,
+  "h": 1408
+ },
+ {
+  "id": "hw102",
+  "name": "HW Media Bank 103",
+  "file": "media/hw/hw102-HW-Media-Bank-103.jpg",
+  "w": 900,
+  "h": 1600
+ },
+ {
+  "id": "hw103",
+  "name": "HW Media Bank 104",
+  "file": "media/hw/hw103-HW-Media-Bank-104.jpg",
+  "w": 1024,
+  "h": 1024
+ },
+ {
+  "id": "hw104",
+  "name": "HW Media Bank 105",
+  "file": "media/hw/hw104-HW-Media-Bank-105.jpg",
+  "w": 800,
+  "h": 1200
+ },
+ {
+  "id": "hw105",
+  "name": "HW Media Bank 106",
+  "file": "media/hw/hw105-HW-Media-Bank-106.jpg",
+  "w": 1200,
+  "h": 800
+ },
+ {
+  "id": "hw106",
+  "name": "HW Media Bank 107",
+  "file": "media/hw/hw106-HW-Media-Bank-107.jpg",
+  "w": 1000,
+  "h": 1500
+ },
+ {
+  "id": "hw107",
+  "name": "HW Media Bank 108",
+  "file": "media/hw/hw107-HW-Media-Bank-108.jpg",
+  "w": 1200,
+  "h": 960
+ },
+ {
+  "id": "hw108",
+  "name": "HW Media Bank 109",
+  "file": "media/hw/hw108-HW-Media-Bank-109.jpg",
+  "w": 1024,
+  "h": 1536
+ },
+ {
+  "id": "hw109",
+  "name": "HW Media Bank 110",
+  "file": "media/hw/hw109-HW-Media-Bank-110.jpg",
+  "w": 956,
+  "h": 1200
+ },
+ {
+  "id": "hw110",
+  "name": "HW Media Bank 111",
+  "file": "media/hw/hw110-HW-Media-Bank-111.jpg",
+  "w": 800,
+  "h": 1200
+ },
+ {
+  "id": "hw111",
+  "name": "JVD · Guest room",
+  "file": "media/hw/hw111-JVD-Guest-room.jpg",
+  "w": 1400,
+  "h": 1045
+ }
+]
